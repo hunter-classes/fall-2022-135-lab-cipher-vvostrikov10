@@ -1,12 +1,13 @@
-* Fall 2021 - Lab Cipher
+* Fall 2022 - Lab 06
 
-* Last name:
+* Last name: Vostrikov
 
-* First name:
+* First name: Vladislav
 
-* GitHub username:
+* GitHub username: vvostrikov10
 
-* Notes:
+* Notes: 'make coverage' creates details.html using gcovr for code coverage details
+make clean also deletes all gcovr files 
 
 
 
@@ -36,4 +37,5 @@ You can add additional functions and place all functionality in files
 that make sense (and/or add new ones). 
 
 You should use doctest based tests to show that this works.
+
 
